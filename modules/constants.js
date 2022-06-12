@@ -1,0 +1,1 @@
+export const OPERATION_FAILED_ERR_MESSAGE = 'Operation failed.'
