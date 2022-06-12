@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1df3b3af-1e48-49f2-aab4-be1ddc45696c" name="Changes" comment="init project">
-      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/files.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/hash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/nwd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/os.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/readline-args.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/user-interaction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/zip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/compress-decompress.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/files.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/files.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/hash.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/hash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/nwd.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/nwd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/os.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/os.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/zip.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

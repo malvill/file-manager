@@ -2,7 +2,7 @@ import os from 'os';
 
 const homedir = os.homedir();
 const cpusNumber = os.cpus();
-const eol = os.EOL;
+const eol = JSON.stringify(os.EOL);
 const systemUsername = os.userInfo().username;
 const architecture = os.arch();
 
